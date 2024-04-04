@@ -1,6 +1,5 @@
 
 > # 🔴 TEMPORARY BACKUP ACCOUNT OF gensart-ai 🔴
-> GitHub support is fucking sucks. I use this now for work. Trying to migrate to GitLab.
 
 > ### Talk is cheap! Show me the code. ~ Linus .T
 [![Instagram Badge](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/gensart.ai)](https://instagram.com/gensart.ai)
