@@ -16,9 +16,9 @@
 > Do coding for research and fun, but now it seems my financial did not allow to do that more freely 😅
 - 👋 God blessed me with the name **Genesaret Johnes**. Usually, people called me Genes.
 - 🐱‍👤 I do love cats.
-- 🙄 Wife ? Kids ? Nah man, I'm 21. I'm not type of people who wants hurrily to get entangled with marriage things
-- 🌱 Side, I’m currently working on wasap bot using Node JS 🤖, check this [repo](https://github.com/gensart-ai/whatsapp-bot).
-- 💞️ I love to collaborate with anyone who wants to learn together or create an open-source project
+- 🙄 Wife ? Kids ? Nah man, I'm still in twenties. I'm not type of people who wants hurrily to get entangled with marriage things
+- 🌱 Side, I’m currently working on wasap bot using Node JS 🤖, check this [repository](https://github.com/gensart-ai/whatsapp-bot) to find out.
+- 💞️ I love to collaborate with anyone who wants to learn together or create a simple-but-may-useful open-source project
 - 📫 Don't hesitate to reach me on Instagram or Facebook! 💌 No worry, I follow you back !<br/><br/>
 
 <p>Link to my personal website :</p>
@@ -63,7 +63,7 @@ Computer :
 - DDR5 32GB...  
 No, no no, typo sorry. Here :  
 - Office laptop (I don't have my own), ASUS A456U
-- Wireless Mouse, I have my own
+- Logitech G203 Mouse, I have my own
 - and, mousepad :)
 
 Phone : `realme 8`
@@ -75,6 +75,8 @@ Phone : `realme 8`
   <img src="https://i.ibb.co/4tBnVKN/AX9I.gif">
 </details>
 
-### GitHub Profile Performance
+### GitHub Profile Performance (on gensart-ai)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gensart-ai&show_icons=true&theme=radical&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gensart-ai&theme=radical&layout=compact)
+
+<img src="https://raw.githubusercontent.com/gensart-x/gensart-x/main/bottom_header.svg">
