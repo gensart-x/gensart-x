@@ -1,48 +1,40 @@
-
-> # 🔴 TEMPORARY BACKUP ACCOUNT OF gensart-ai 🔴
-
 > ### Talk is cheap! Show me the code. ~ Linus .T
-[![Instagram Badge](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/gensart.ai)](https://instagram.com/gensart.ai)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram&link=https://t.me/gensartx)](https://t.me/gensartx)
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-100000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=008DD4&color=008DD4)](https://www.linkedin.com/in/gensart/)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram&link=https://t.me/gensartx)](https://t.me/gensartx)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/gensart.ai)](https://instagram.com/gensart.ai)
 [![Gmail Badge](https://img.shields.io/badge/-G--Mail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:geneshsarretsarretret@gmail.com)](mailto:geneshsarretsarretret@gmail.com?subject=%5BFrom%20GitHub%5D&body=Hello%2C%20i%20wanna%20contact%20you%20about%20%3A) 
-[![Github Badge](https://img.shields.io/badge/gensart--ai-%20classy%20since%202017-blue?style=for-the-badge&logo=github&link=https://github.com/gensart-ai/)](https://www.github.com/gensart-ai/)<br/>
-[![github view counter](https://komarev.com/ghpvc/?username=gensart-ai&label=Viewed+:&style=for-the-badge&link=https:github.com/gensart-ai)](https://github.com/gensart-ai)<br/>
+[![Github Badge](https://img.shields.io/badge/gensart--x-%20classy%20since%202017-blue?style=for-the-badge&logo=github&link=https://github.com/gensart-x/)](https://www.github.com/gensart-x/)<br/>
+[![github view counter](https://komarev.com/ghpvc/?username=gensart-x&label=Viewed+:&style=for-the-badge&link=https:github.com/gensart-x)](https://github.com/gensart-x)<br/>
 <p align="center">
   <img  width="200" src="https://i.ibb.co/981YpCR/XOsX.gif">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&vCenter=true&width=435&lines=Junior+Software+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Professional+Google+Searcher+%F0%9F%98%81;Instant+Noodle+Killer+%F0%9F%8D%9C;Non-Coffee+People+%F0%9F%8D%B5;Lo-Fi+Music+Lover+%F0%9F%8E%B6;Science+and+Research+Enthusiast+%F0%9F%94%AC;Indonesian+%F0%9F%8C%9F)](https://git.io/typing-svg)  
-> Do coding for research and fun, but now it seems my financial did not allow to do that more freely 😅
-- 👋 God blessed me with the name **Genesaret Johnes**. Usually, people called me Genes.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&duration=2000&pause=500&color=F7AF11&random=false&width=435&lines=Gen+Z+%F0%9F%90%A3;Professional+Google+Searcher+%F0%9F%98%8E%F0%9F%98%86;Indomie+Enthusiast++%F0%9F%A5%87;Indonesian+%E2%AD%90;Open+Source+Lover+%F0%9F%92%99;Happy+to+help+others+as+I+can%F0%9F%98%81;Dubstep+Music+%F0%9F%8E%B6;Plays+Mobile+Legends+%F0%9F%8E%B2)](https://git.io/typing-svg)
+> Do coding for research, fun, and work. I'm trying to have fun in life with computer science ! 😅
+- 🌟 God blessed me with the name **Genesaret Johnes**. Usually, people called me Genes.
 - 🐱‍👤 I do love cats.
 - 🙄 Wife ? Kids ? Nah man, I'm still in twenties. I'm not type of people who wants hurrily to get entangled with marriage things
-- 🌱 Side, I’m currently working on wasap bot using Node JS 🤖, check this [repository](https://github.com/gensart-ai/whatsapp-bot) to find out.
-- 💞️ I love to collaborate with anyone who wants to learn together or create a simple-but-may-useful open-source project
-- 📫 Don't hesitate to reach me on Instagram or Facebook! 💌 No worry, I follow you back !<br/><br/>
+- 🌱 Side, I’m currently working on wasap bot using Node JS 🤖, check this [repository](https://github.com/gensart-x/whatsapp-bot) to find out.
+- 🤝 I love to collaborate with anyone who wants to learn together or create a simple open-source project
+- 🤙 Don't hesitate to reach me on Instagram or Email! 💌 No worry, I do fast respond as possible !<br/><br/>
+0720F0 3B0EBA
+### Personal Website :
+<a href='https://gensart.super.site' target="_blank"><img alt='' src='https://img.shields.io/badge/OPEN WEBSITE ↗-100000?style=for-the-badge&logo=&logoColor=white&labelColor=0720F0&color=0720F0'/></a>
 
-<p>Link to my personal website :</p>
-<a href='https://gensart.super.site' target="_blank"><img alt='' src='https://img.shields.io/badge/Personal Website ↗-100000?style=for-the-badge&logo=&logoColor=white&labelColor=F72020&color=3B0EBA'/></a>
+### Current tech stack I usually use for both my work or project :
+<a href='https://typescriptlang.org' target="_blank"><img alt='typescript' src='https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white'/></a>
+<a href='https://javascript.com' target="_blank"><img alt='javascript' src='https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black'/></a>
+<a href='https://php.net' target="_blank"><img alt='php' src='https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white'/></a>
+<a href='https://mariadb.org' target="_blank"><img alt='mysql' src='https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=MariaDB&logoColor=white'/></a>
+<a href='https://nodejs.org/en' target="_blank"><img alt='nodedotjs' src='https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white'/></a>
+<a href='https://expressjs.com/' target="_blank"><img alt='express' src='https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white'/></a>
+<a href='https://getbootstrap.com' target="_blank"><img alt='bootstrap' src='https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white'/></a>
+<a href='https://jquery.com' target="_blank"><img alt='jquery' src='https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white'/></a>
+<a href='https://codeigniter.com' target="_blank"><img alt='codeigniter' src='https://img.shields.io/badge/CodeIgniter 4-EF4223.svg?style=for-the-badge&logo=CodeIgniter&logoColor=white'/></a>
 
-### Current tech I'm learning on :
-<a href='https://typescriptlang.org' target="_blank"><img alt='typescript' src='https://img.shields.io/badge/TypeScript-100000?style=flat-square&logo=typescript&logoColor=FFFFFF&labelColor=306998&color=306998'/></a>
-<a href='https://nodejs.org/en' target="_blank"><img alt='nodedotjs' src='https://img.shields.io/badge/Node_JS-100000?style=flat-square&logo=nodedotjs&logoColor=FFFFFF&labelColor=339933&color=339933'/></a>
-<a href='https://expressjs.com/' target="_blank"><img alt='express' src='https://img.shields.io/badge/Express_JS-100000?style=flat-square&logo=express&logoColor=000000&labelColor=FFFFFF&color=FFFFFF'/></a>
-
-### Languages I know recently :
-<a href='https://php.net' target="_blank"><img alt='php' src='https://img.shields.io/badge/PHP-100000?style=flat-square&logo=php&logoColor=FFFFFF&labelColor=9263FF&color=9263FF'/></a>
-<a href='https://javascript.com' target="_blank"><img alt='javascript' src='https://img.shields.io/badge/JavaScript-100000?style=flat-square&logo=javascript&logoColor=000000&labelColor=FFE417&color=FFE417'/></a>
+### Some of my favorites :
 <a href='https://python.org' target="_blank"><img alt='python' src='https://img.shields.io/badge/Python-100000?style=flat-square&logo=python&logoColor=FFDA1C&labelColor=306998&color=306998'/></a>
-<a href='https://mysql.com' target="_blank"><img alt='mysql' src='https://img.shields.io/badge/MySQL_MariaDB-100000?style=flat-square&logo=mysql&logoColor=0769AD&labelColor=E7E7E7&color=DDDDDD'/></a>
-<a href='https://typescriptlang.org' target="_blank"><img alt='typescript' src='https://img.shields.io/badge/TypeScript-100000?style=flat-square&logo=typescript&logoColor=FFFFFF&labelColor=306998&color=306998'/></a>
 <a href='https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office' target="_blank"><img alt='visualbasic' src='https://img.shields.io/badge/VBA_For_Excel-100000?style=flat-square&logo=visualbasic&logoColor=FFFFFF&labelColor=512BD4&color=512BD4'/></a>
-
-### Frameworks I recently used for dev:
-<a href='https://nodejs.org/en' target="_blank"><img alt='nodedotjs' src='https://img.shields.io/badge/Node_JS-100000?style=flat-square&logo=nodedotjs&logoColor=FFFFFF&labelColor=339933&color=339933'/></a>
-<a href='https://expressjs.com/' target="_blank"><img alt='express' src='https://img.shields.io/badge/Express_JS-100000?style=flat-square&logo=express&logoColor=000000&labelColor=FFFFFF&color=FFFFFF'/></a>
-<a href='https://getbootstrap.com' target="_blank"><img alt='bootstrap' src='https://img.shields.io/badge/Bootstrap_4 & 5-100000?style=flat-square&logo=bootstrap&logoColor=FFFFFF&labelColor=671ED4&color=671ED4'/></a>
-<a href='https://jquery.com' target="_blank"><img alt='jquery' src='https://img.shields.io/badge/jQuery-100000?style=flat-square&logo=jquery&logoColor=0769AD&labelColor=E7E7E7&color=DDDDDD'/></a>
-<a href='https://codeigniter.com' target="_blank"><img alt='codeigniter' src='https://img.shields.io/badge/CodeIgniter_4-100000?style=flat-square&logo=codeigniter&logoColor=FFFFFF&labelColor=EF4223&color=EF4223'/></a>
 <a href='https://flask.palletsprojects.com/en/2.3.x/' target="_blank"><img alt='flask' src='https://img.shields.io/badge/Flask-100000?style=flat-square&logo=flask&logoColor=000000&labelColor=FFFFFF&color=FFFFFF'/></a>
 
 ### Software I use for daily life :
@@ -55,28 +47,23 @@
 ### Achievements
 
 #### LeetCode
-[![LeetCode user gensart-ai](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fgensart-ai&logo=leetcode&logoColor=yellow)](https://leetcode.com/gensart-ai/) 🤣
+[![LeetCode user gensart-ai](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fgensart-ai&logo=leetcode&logoColor=yellow)](https://leetcode.com/gensart-ai/)
 
-### My Gear
-Computer :  
-- Intel Core-i7 12000k
-- DDR5 32GB...  
-No, no no, typo sorry. Here :  
-- Office laptop (I don't have my own), ASUS A456U
-- Logitech G203 Mouse, I have my own
-- and, mousepad :)
-
-Phone : `realme 8`
-
-### Motivation of Work
+### Motivations of Work
 <details>
   <summary>Open with Caution ⚠</summary>
   <img src="https://i.ibb.co/MSj6gxJ/9i1V.gif">
   <img src="https://i.ibb.co/4tBnVKN/AX9I.gif">
 </details>
 
+### GitHub Profile Performance (on gensart-x)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gensart-x&show_icons=true&theme=radical&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gensart-x&theme=radical&layout=compact)
+
 ### GitHub Profile Performance (on gensart-ai)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gensart-ai&show_icons=true&theme=radical&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gensart-ai&theme=radical&layout=compact)
+
+> ℹ This account is a successor of my sudden-suspended account on GitHub named, gensart-ai.
 
 <img src="https://raw.githubusercontent.com/gensart-x/gensart-x/main/bottom_header.svg">
