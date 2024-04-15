@@ -17,7 +17,7 @@
 - 🌱 Side, I’m currently working on wasap bot using Node JS 🤖, check this [repository](https://github.com/gensart-x/whatsapp-bot) to find out.
 - 🤝 I love to collaborate with anyone who wants to learn together or create a simple open-source project
 - 🤙 Don't hesitate to reach me on Instagram or Email! 💌 No worry, I do fast respond as possible !<br/><br/>
-0720F0 3B0EBA
+
 ### Personal Website :
 <a href='https://gensart.super.site' target="_blank"><img alt='' src='https://img.shields.io/badge/OPEN WEBSITE ↗-100000?style=for-the-badge&logo=&logoColor=white&labelColor=0720F0&color=0720F0'/></a>
 
