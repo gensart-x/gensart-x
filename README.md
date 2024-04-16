@@ -49,6 +49,9 @@
 #### LeetCode
 [![LeetCode user gensart-ai](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fgensart-ai&logo=leetcode&logoColor=yellow)](https://leetcode.com/gensart-ai/)
 
+#### MonkeyType
+[![MonkeyType](https://ziadoua.github.io/m3-Markdown-Badges/badges/MonkeyType/monkeytype2.svg)](https://monkeytype.com/profile/gensart-x)
+
 ### Motivations of Work
 <details>
   <summary>Open with Caution ⚠</summary>
@@ -64,6 +67,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gensart-ai&show_icons=true&theme=radical&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gensart-ai&theme=radical&layout=compact)
 
-> ℹ This account is a successor of my sudden-suspended account on GitHub named, gensart-ai.
+> ℹ This account is a successor of my sudden-suspend account on GitHub named, gensart-ai.
 
 <img src="https://raw.githubusercontent.com/gensart-x/gensart-x/main/bottom_header.svg">
