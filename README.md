@@ -9,8 +9,15 @@
   <img  width="200" src="https://i.ibb.co/981YpCR/XOsX.gif">
 </p>
 
+***  
+
+<p align="center">
+  <em>"Apakah kamu berbuat baik karena terlihat baik ? Atau kamu terlihat baik karena kamu berbuat baik ?"</em>
+</p>
+
+***
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&duration=2000&pause=500&color=F7AF11&random=false&width=435&lines=Gen+Z+%F0%9F%90%A3;Professional+Google+Searcher+%F0%9F%98%8E%F0%9F%98%86;Indomie+Enthusiast++%F0%9F%A5%87;Indonesian+%E2%AD%90;Open+Source+Lover+%F0%9F%92%99;Happy+to+help+others+as+I+can%F0%9F%98%81;Dubstep+Music+%F0%9F%8E%B6;Plays+Mobile+Legends+%F0%9F%8E%B2)](https://git.io/typing-svg)
-> Status ? Developing my brain with computer science. ⚙
 - 🌟 God blessed me with the name **Genesaret Johnes**. Usually, people called me Genes.
 - 🔥  On fire to learning, sometimes wintering ❄️. But you know, ice will feels more hot to hand if you hold it more longer ❤️‍🔥.
 - 🐱‍👤 I do love cats.
