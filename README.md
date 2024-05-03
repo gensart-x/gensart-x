@@ -12,7 +12,7 @@
 ***  
 
 <p align="center">
-  <em>"Apakah kamu berbuat baik karena terlihat baik ? Atau kamu terlihat baik karena kamu berbuat baik ?"</em>
+  <em>"Apakah kamu berbuat baik karena itu terlihat baik ? Atau kamu itu terlihat baik karena kamu berbuat baik ?"</em>
 </p>
 
 ***
