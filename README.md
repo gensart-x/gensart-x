@@ -29,6 +29,63 @@
 ### Personal Website :
 <a href='https://gensart.super.site' target="_blank"><img alt='' src='https://img.shields.io/badge/OPEN WEBSITE ↗-100000?style=for-the-badge&logo=&logoColor=white&labelColor=0720F0&color=0720F0'/></a>
 
+### My Personal Projects
+
+<table>
+<tr>
+<th width="100px">No</th>
+<th width="500px">Project Brief</th>
+<th width="250px">Status</th>
+<th width="250px">Repository</th>
+</tr>
+<tr align="center">
+<td>1</td>
+<td align="left">
+  <code>Sora Erlyana</code> <br>
+  > Daily WhatsApp bot used for sticker maker, cooking recipe, random stuffs, etc.<br>
+  <img alt='typescript' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg'/>
+  <img alt='nodedotjs' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg'/>
+</td>
+<td>
+    <img src="https://img.shields.io/github/last-commit/gensart-x/sora-erlyana/main?display_timestamp=author&style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2Fgensart-x%2Fsora-erlyana">
+</td>
+<td>
+  <a href="https://github.com/gensart-x/sora-erlyana">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg">
+  </a>
+</td>
+</tr>
+  <tr align="center">
+<td>2</td>
+<td align="left">
+  <code>Reva Erlyana</code> <br>
+  > WhatsApp bot, specialized only for managing WhatsApp group based on commands.<br>
+  <img alt='nodedotjs' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg'/>
+  <img alt='typescript' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg'/>
+</td>
+<td>
+    <img src="https://img.shields.io/badge/ON%20DEVELOPMENT-ff0000?style=for-the-badge" alt="ON DEVELOPMENT" />
+</td>
+<td>
+  <a href="https://github.com/gensart-x/reva-erlyana">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg">
+  </a>
+</td>
+</tr>
+<tr align="center">
+<td>3..</td>
+<td align="left">
+  There will be much coming, stay tuned...😁
+</td>
+<td>
+    ...
+</td>
+<td>
+  ...
+</td>
+</tr>
+</table>
+
 ### Current tech stack I usually use for both my work or project :
 <a href='https://typescriptlang.org' target="_blank"><img alt='typescript' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg'/></a>
 <a href='https://javascript.com' target="_blank"><img alt='javascript' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg'/></a>
@@ -63,7 +120,7 @@
 
 ### Motivations of Work
 <details>
-  <summary>Open with Caution ⚠</summary>
+  <summary>🔴 Open with Caution ⚠</summary>
   <img src="https://i.ibb.co/MSj6gxJ/9i1V.gif">
   <img src="https://i.ibb.co/4tBnVKN/AX9I.gif">
 </details>
