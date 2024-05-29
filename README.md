@@ -21,9 +21,8 @@
 - 🌟 God blessed me with the name **Genesaret Johnes**. Usually, people called me Genes.
 - 🔥  On fire to learning, sometimes wintering ❄️. But you know, ice will feels more hot to hand if you hold it more longer ❤️‍🔥.
 - 🐱‍👤 I do love cats.
-- 🙄 Wife ? Kids ? Nah man, I'm still in twenties. I'm not type of people who wants **hurrily** to get entangled with marriage things
-- 🌱 Side, I’m currently working on wasap bot using Node JS 🤖, check this [repository](https://github.com/gensart-x/whatsapp-bot) to find out.
-- 🤝 I love to collaborate with anyone who wants to learn together or create a simple open-source project
+- 💍  Still as a single fighter ! 😎😆
+- 💙 Currently, I'm following the anime and manga of [The Dangers in My Heart - 僕の心のヤバイやつ](https://bokuyaba.fandom.com/wiki/Boku_no_Kokoro_no_Yabai_Yatsu_(anime))
 - 🤙 Don't hesitate to reach me on Instagram or Email! 💌 No worry, I do fast respond as possible !<br/><br/>
 
 ### Personal Website :
