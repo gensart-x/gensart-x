@@ -28,7 +28,7 @@
 - 🔥  On fire to learning, sometimes wintering ❄️.
 - 🐱‍👤 I do love cats.
 - 💍  Still as a single fighter! 😎😆
-- 💙 Currently, I'm following manga of [The Dangers in My Heart - 僕の心のヤバイやつ](https://bokuyaba.fandom.com/wiki/Boku_no_Kokoro_no_Yabai_Yatsu_(anime)), and [Dark Gathering - ダークギャザリング](https://en.wikipedia.org/wiki/Dark_Gathering)
+- 💙 Currently, I'm following the manga of [The Dangers in My Heart - 僕の心のヤバイやつ](https://bokuyaba.fandom.com/wiki/Boku_no_Kokoro_no_Yabai_Yatsu_(anime)), and [Dark Gathering - ダークギャザリング](https://en.wikipedia.org/wiki/Dark_Gathering)
 - 🤙 Don't hesitate to reach me on Instagram or Email! 💌 No worry, I do fast respond as possible !<br/><br/>
 
 ### Personal Website :
