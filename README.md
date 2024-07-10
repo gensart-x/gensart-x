@@ -25,9 +25,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&duration=2000&pause=500&color=F7AF11&random=false&width=435&lines=Gen+Z+%F0%9F%90%A3;Professional+Google+Searcher+%F0%9F%98%8E%F0%9F%98%86;Indomie+Enthusiast++%F0%9F%A5%87;Indonesian+%E2%AD%90;Open+Source+Lover+%F0%9F%92%99;Happy+to+help+others+as+I+can%F0%9F%98%81;Dubstep+Music+%F0%9F%8E%B6;Plays+Mobile+Legends+%F0%9F%8E%B2)](https://git.io/typing-svg)
 - 🌟 God blessed me with the name **Genesaret Johnes**. Usually, people called me Genes.
-- 🔥  On fire to learning, sometimes wintering ❄️.
 - 🐱‍👤 I do love cats.
-- 💍  Still as a single fighter! 😎😆
 - 💙 Currently, I'm following the manga of [The Dangers in My Heart - 僕の心のヤバイやつ](https://bokuyaba.fandom.com/wiki/Boku_no_Kokoro_no_Yabai_Yatsu_(anime)), and [Dark Gathering - ダークギャザリング](https://en.wikipedia.org/wiki/Dark_Gathering)
 - 🤙 Don't hesitate to reach me on Instagram or Email! 💌 No worry, I do fast respond as possible !<br/><br/>
 
@@ -115,7 +113,7 @@
 <a href='https://flask.palletsprojects.com/en/2.3.x/' target="_blank"><img alt='flask' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask1.svg'/></a>
 <a href='https://duolingo.com' target='_blank'><img alt='duolingo' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Duolingo/duolingo2.svg'></a>
 
-### Software I use for daily life :
+### Softwares I use for daily life :
 <a href='https://www.adobe.com/id_en/products/photoshop/landpa.html' target="_blank"><img alt='adobephotoshop' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop2.svg'/></a>
 <a href='https://chrome.google.com' target="_blank"><img alt='canva' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Chrome/chrome2.svg'/></a>
 <a href='https://vscode.dev' target="_blank"><img alt='visualstudiocode' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg'/></a>
