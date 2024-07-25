@@ -1,35 +1,26 @@
-> ### A dangerous motivator, music. ~ Genes. J
-[![Linkedin Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg)](https://www.linkedin.com/in/gensart/)
-[![Telegram Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram3.svg)](https://t.me/gensartx)
-[![Instagram Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram1.svg)](https://instagram.com/gensart.ai)
-[![Gmail Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg)](mailto:geneshsarretsarretret@gmail.com?subject=%5BFrom%20GitHub%5D&body=Hello%2C%20i%20wanna%20contact%20you%20about%20%3A) 
-[![Github Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg)](https://www.github.com/gensart-x/)<br/><br/>
-
 <p align="center">
-  <img width="100" src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif">
-  <img width="100" src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif">
-  <img width="100" src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif">
-  <img width="100" src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif">
-  <img width="100" src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif">
-  <img width="100" src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif">
-  <img width="100" src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXVsa2NmeWVhMjRvYXdub3JwdWk1Zjkzc2x6NXplbnpmemU4ajA4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5REjg3GeGPgPu/giphy.webp">
 </p>
-
-***  
-
 <p align="center">
-  <em>"Apakah kamu itu terlihat baik karena kamu berbuat baik ? Atau kamu berbuat baik karena itu terlihat baik ?"</em>
+  <em>- If the world comes to an end and you should watch at least one anime, do it for Gasai Yuno. -</em>
 </p>
 
 ***
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&duration=2000&pause=500&color=F7AF11&random=false&width=435&lines=Gen+Z+%F0%9F%90%A3;Professional+Google+Searcher+%F0%9F%98%8E%F0%9F%98%86;Indomie+Enthusiast++%F0%9F%A5%87;Indonesian+%E2%AD%90;Open+Source+Lover+%F0%9F%92%99;Happy+to+help+others+as+I+can%F0%9F%98%81;Dubstep+Music+%F0%9F%8E%B6;Plays+Mobile+Legends+%F0%9F%8E%B2)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&duration=2000&pause=500&color=F7AF11&random=false&width=435&lines=Gen+Z+%F0%9F%90%A3;Professional+Google+Searcher+%F0%9F%98%8E%F0%9F%98%86;Indomie+Enthusiast++%F0%9F%A5%87;Indonesian+%E2%AD%90;Open+Source+Lover+%F0%9F%92%99;Happy+to+help+others+as+I+can%F0%9F%98%81;Dubstep+Music+%F0%9F%8E%B6;Plays+Mobile+Legends+%F0%9F%8E%B2)](https://git.io/typing-svg)  
+
+[![Linkedin Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg)](https://www.linkedin.com/in/gensart/)
+[![Telegram Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram3.svg)](https://t.me/gensartx)
+[![Instagram Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram1.svg)](https://instagram.com/gensart.ai)
+[![Gmail Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg)](mailto:geneshsarretsarretret@gmail.com?subject=%5BFrom%20GitHub%5D&body=Hello%2C%20i%20wanna%20contact%20you%20about%20%3A) 
+[![Github Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg)](https://www.github.com/gensart-x/)
+<br/><br/>
+
 - 🌟 God blessed me with the name **Genesaret Johnes**.
-- 🐱‍👤 I do love cats.
-- 💙 Currently, I'm following the manga of [The Dangers in My Heart - 僕の心のヤバイやつ](https://bokuyaba.fandom.com/wiki/Boku_no_Kokoro_no_Yabai_Yatsu_(anime)), and [Dark Gathering - ダークギャザリング](https://en.wikipedia.org/wiki/Dark_Gathering)
-- 🎞 I watch animes too, the list is on [MyAnimeList](https://myanimelist.net/animelist/gensart-x)
-- 📙 I'm starting to write a novel also, even though I have no background for it 😆. Check it out on my [Wattpad](https://www.wattpad.com/user/gensart)
-- 🤙 Don't hesitate to reach me on Instagram or Email! 💌 No worry, I do fast respond as possible !<br/><br/>
+- 💙 Currently, I'm following the manga of [The Dangers in My Heart - 僕の心のヤバイやつ](https://en.wikipedia.org/wiki/The_Dangers_in_My_Heart), and [Dark Gathering - ダークギャザリング](https://en.wikipedia.org/wiki/Dark_Gathering)
+- 🎞 I read another mangas and watch animes too, the list is on [MyAnimeList](https://myanimelist.net/animelist/gensart-x)
+- 📙 Recently I got excited to write a novel, even though I still have no good proficiency for it 😆. Check it out on my [Wattpad](https://www.wattpad.com/user/gensart)
+- 🤙 Reach me on [Instagram](https://instagram.com/gensart-x) or [Email](mailto:geneshsarretsarretret@gmail.com) ! 💌 Don't worry, I won't bite, your flesh is not tasty either.<br/><br/>
 
 ### About Me :
 <a href='https://gensart.super.site' target="_blank"><img alt='supersite' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg'/></a>
