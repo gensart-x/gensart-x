@@ -20,7 +20,7 @@
 - 💙 Currently, I'm following the manga of [The Dangers in My Heart - 僕の心のヤバイやつ](https://en.wikipedia.org/wiki/The_Dangers_in_My_Heart), and [Dark Gathering - ダークギャザリング](https://en.wikipedia.org/wiki/Dark_Gathering)
 - 🎞 I read another mangas and watch animes too, the list is on [MyAnimeList](https://myanimelist.net/animelist/gensart-x)
 - 📙 Recently I got excited to write a novel, even though I still have no good proficiency for it 😆. Check it out on my [Wattpad](https://www.wattpad.com/user/gensart)
-- 🤙 Reach me on [Instagram](https://instagram.com/gensart-x) or [Email](mailto:geneshsarretsarretret@gmail.com) ! 💌 Don't worry, I won't bite, your flesh is not tasty either.<br/><br/>
+- 🤙 Reach me on [Instagram](https://instagram.com/gensart-x) or [Email](mailto:geneshsarretsarretret@gmail.com) ! 💌 Don't worry, I won't bite, your flesh seem not tasty either.<br/><br/>
 
 ### About Me :
 <a href='https://gensart.super.site' target="_blank"><img alt='supersite' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg'/></a>
