@@ -2,7 +2,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXVsa2NmeWVhMjRvYXdub3JwdWk1Zjkzc2x6NXplbnpmemU4ajA4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5REjg3GeGPgPu/giphy.webp">
 </p>
 <p align="center">
-  <em>- If the world comes to an end and you should watch at least one anime, do it for Gasai Yuno. -</em>
+  <em>- Gasai Yuno, Mirai Nikki (2011) -</em>
 </p>
 
 ***
@@ -20,7 +20,7 @@
 - 💙 Currently, I'm following the manga of [The Dangers in My Heart - 僕の心のヤバイやつ](https://en.wikipedia.org/wiki/The_Dangers_in_My_Heart), and [Dark Gathering - ダークギャザリング](https://en.wikipedia.org/wiki/Dark_Gathering)
 - 🎞 I read another mangas and watch animes too, the list is on [MyAnimeList](https://myanimelist.net/animelist/gensart-x)
 - 📙 Recently I got excited to write a novel, even though I still have no good proficiency for it 😆. Check it out on my [Wattpad](https://www.wattpad.com/user/gensart)
-- 🤙 Reach me on [Instagram](https://instagram.com/gensart-x) or [Email](mailto:geneshsarretsarretret@gmail.com) ! 💌 Don't worry, I won't bite, your flesh seem not tasty either.<br/><br/>
+- 🤙 Reach me on [Instagram](https://instagram.com/gensart-x) or [Email](mailto:geneshsarretsarretret@gmail.com) ! 💌 Don't worry, I won't bite you, your flesh seem not tasty either.<br/><br/>
 
 ### About Me :
 <a href='https://gensart.super.site' target="_blank"><img alt='supersite' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg'/></a>
@@ -101,17 +101,12 @@
 <a href='https://jquery.com' target="_blank"><img alt='jquery' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/jQuery/jquery3.svg'/></a>
 <a href="https://docker.com" target="_blank"><img alt='docker' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg'/></a>
 
-### Another I've used, but rarely :
-<a href='https://python.org' target="_blank"><img alt='python' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg'/></a>
-<a href='https://www.anakkendali.com/2020/10/26/tutorial-raspberry-pi-3-4-menampilkan-layar-di-laptop-lengkap/' target="_blank"><img alt='visualbasic' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/RaspberryPI/raspberrypi1.svg'/></a>
-<a href='https://flask.palletsprojects.com/en/2.3.x/' target="_blank"><img alt='flask' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask1.svg'/></a>
-
 ### Softwares I use for daily life :
 <a href='https://www.adobe.com/id_en/products/photoshop/landpa.html' target="_blank"><img alt='adobephotoshop' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop2.svg'/></a>
 <a href='https://chrome.google.com' target="_blank"><img alt='canva' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Chrome/chrome2.svg'/></a>
 <a href='https://duolingo.com' target='_blank'><img alt='duolingo' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Duolingo/duolingo2.svg'></a>
 <a href='https://vscode.dev' target="_blank"><img alt='visualstudiocode' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg'/></a>
-<a href='https://microsoft.com' target="_blank"><img alt='windows10' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows3.svg'/></a>
+<a href='https://microsoft.com' target="_blank"><img alt='windows10' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows10/windows101.svg'/></a>
 <a href='https://debian.org' target="_blank"><img alt='debian' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Debian/debian1.svg'/></a>
 
 ### Achievements
