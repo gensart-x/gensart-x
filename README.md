@@ -141,4 +141,8 @@
 > 
 > Requiescat in pace, old friend.
 
+<p align="center">
+  <img src="https://c.tenor.com/lZ8i3c19MjsAAAAC/tenor.gif">
+</p>
+
 <img src="https://raw.githubusercontent.com/gensart-x/gensart-x/main/bottom_header.svg">
