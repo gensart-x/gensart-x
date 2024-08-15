@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXVsa2NmeWVhMjRvYXdub3JwdWk1Zjkzc2x6NXplbnpmemU4ajA4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5REjg3GeGPgPu/giphy.webp">
+  <img src="https://c.tenor.com/qdpu_5cP26EAAAAC/tenor.gif">
 </p>
 <p align="center">
-  <em>- Gasai Yuno, Mirai Nikki (2011) -</em>
+  <em>- the cute one, Gasai Yuno. Mirai Nikki (2011) -</em>
 </p>
 
 ***
