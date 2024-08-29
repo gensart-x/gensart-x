@@ -2,12 +2,10 @@
   <img src="https://c.tenor.com/qdpu_5cP26EAAAAC/tenor.gif">
 </p>
 <p align="center">
-  <em>- the cute one, Gasai Yuno. Mirai Nikki (2011) -</em>
+  <em>- Gasai Yuno, on Mirai Nikki (2011) -</em>
 </p>
 
 ***
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&duration=2000&pause=500&color=F7AF11&random=false&width=435&lines=Gen+Z+%F0%9F%90%A3;Professional+Google+Searcher+%F0%9F%98%8E%F0%9F%98%86;Indomie+Enthusiast++%F0%9F%A5%87;Indonesian+%E2%AD%90;Open+Source+Lover+%F0%9F%92%99;Happy+to+help+others+as+I+can%F0%9F%98%81;Dubstep+Music+%F0%9F%8E%B6;Plays+Mobile+Legends+%F0%9F%8E%B2)](https://git.io/typing-svg)  
 
 [![Linkedin Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg)](https://www.linkedin.com/in/gensart/)
 [![Telegram Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram3.svg)](https://t.me/gensartx)
@@ -17,9 +15,9 @@
 <br/><br/>
 
 - 🌟 God blessed me with the name **Genesaret Johnes**.
-- 💙 Currently, I'm following the manga of [The Dangers in My Heart - 僕の心のヤバイやつ](https://en.wikipedia.org/wiki/The_Dangers_in_My_Heart), and [Dark Gathering - ダークギャザリング](https://en.wikipedia.org/wiki/Dark_Gathering)
+- 💙 Following the manga updates of [The Dangers in My Heart - 僕の心のヤバイやつ](https://en.wikipedia.org/wiki/The_Dangers_in_My_Heart), and [Dark Gathering - ダークギャザリング](https://en.wikipedia.org/wiki/Dark_Gathering)
 - 🎞 I read another mangas and watch animes too, the list is on [MyAnimeList](https://myanimelist.net/animelist/gensart-x)
-- 📙 Recently I got excited to write a novel, even though I still have no good proficiency for it 😆. Check it out on my [Wattpad](https://www.wattpad.com/user/gensart)
+- 📙 I have tried to write a novel, even though I still have no good proficiency for it. Check it out on my [Wattpad](https://www.wattpad.com/user/gensart)
 - 🤙 Reach me on [Instagram](https://instagram.com/gensart-x) or [Email](mailto:geneshsarretsarretret@gmail.com) ! 💌 Don't worry, I won't bite you, your flesh seem not tasty either.<br/><br/>
 
 ### About Me :
