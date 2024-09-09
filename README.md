@@ -42,7 +42,8 @@
   <img alt='nodedotjs' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg'/>
 </td>
 <td>
-    <img src="https://img.shields.io/github/last-commit/gensart-x/sora-erlyana/main?display_timestamp=author&style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2Fgensart-x%2Fsora-erlyana">
+  <img src="https://img.shields.io/badge/MAINTAINED%20PASSIVELY-00ff00?style=for-the-badge" title="Maintained for reported error(s) and feature request, if still possible." />  
+  <img src="https://img.shields.io/github/last-commit/gensart-x/sora-erlyana/main?display_timestamp=author&style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2Fgensart-x%2Fsora-erlyana">
 </td>
 <td>
   <a href="https://github.com/gensart-x/sora-erlyana">
@@ -59,7 +60,7 @@
   <img alt='typescript' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg'/>
 </td>
 <td>
-    <img src="https://img.shields.io/badge/ON%20HOLD-ff0000?style=for-the-badge" alt="ON HOLD" />
+    <img src="https://img.shields.io/badge/DROPPED-ff0000?style=for-the-badge" title="Dropped. Not planned to be continued on development in an uncertain time." />
 </td>
 <td>
   <a href="https://github.com/gensart-x/reva-erlyana">
@@ -78,6 +79,7 @@
   <img alt="express" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express1.svg"/>
   </td>
 <td>
+    <img src="https://img.shields.io/badge/NO%20MORE%20UPDATES-ff5a00?style=for-the-badge" title="Still maintained for error(s), but will have no new feature updates until the uncertain time." />
     <img src="https://img.shields.io/github/last-commit/gensart-x/kyoanna-dashboard/main?display_timestamp=author&style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2Fgensart-x%2Fkyoanna-dashboard">
 </td>
 <td>
@@ -109,12 +111,8 @@
 
 ### Achievements
 
-#### LeetCode
-> I'm not frequently active on LeetCode, currently.
+<a href='https://duolingo.com/profile/gensart.x' target='_blank'><img alt='duolingo' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Duolingo/duolingo2.svg'></a>
 
-[![Leet Code](https://ziadoua.github.io/m3-Markdown-Badges/badges/LeetCode/leetcode1.svg)](https://leetcode.com)
-
-#### MonkeyType
 > I'm not frequently active on MonkeyType, currently.
 
 [![MonkeyType](https://ziadoua.github.io/m3-Markdown-Badges/badges/MonkeyType/monkeytype2.svg)](https://monkeytype.com/profile/gensart-x)
