@@ -2,7 +2,8 @@
   <img src="https://c.tenor.com/qdpu_5cP26EAAAAC/tenor.gif">
 </p>
 <p align="center">
-  <em>- Gasai Yuno, on Mirai Nikki (2011) -</em>
+  <em>- Gasai Yuno, The True Yanderé Queen👑 -</em><br>
+  <small>The one that willing from world to worlds, just to find her loved one.</small>
 </p>
 
 ***
@@ -15,7 +16,7 @@
 <br/><br/>
 
 - 🌟 God blessed me with the name **Genesaret Johnes**.
-- 💙 Following the manga updates of [The Dangers in My Heart - 僕の心のヤバイやつ](https://en.wikipedia.org/wiki/The_Dangers_in_My_Heart), and [Dark Gathering - ダークギャザリング](https://en.wikipedia.org/wiki/Dark_Gathering)
+- 💙 Following the manga updates of <s>[The Dangers in My Heart - 僕の心のヤバイやつ](https://en.wikipedia.org/wiki/The_Dangers_in_My_Heart)</s>, and [Dark Gathering - ダークギャザリング](https://en.wikipedia.org/wiki/Dark_Gathering)
 - 🎞 I read another mangas and watch animes too, the list is on [MyAnimeList](https://myanimelist.net/animelist/gensart-x) & [MyMangaList](https://myanimelist.net/mangalist/gensart-x)
 - 📙 I have tried to write a novel, even though I still have no good proficiency for it. Check it out on my [Wattpad](https://www.wattpad.com/user/gensart)
 - 🤙 Reach me on [Instagram](https://instagram.com/gensart-x) or [Email](mailto:geneshsarretsarretret@gmail.com) ! 💌 Don't worry, I won't bite you, your flesh seem not tasty either.<br/><br/>
