@@ -3,7 +3,6 @@
 </p>
 <p align="center">
   <em>- Gasai Yuno, The True Yanderé Queen👑 -</em><br>
-  <small>The one that willing from world to worlds, just to find her loved one.</small>
 </p>
 
 ***
@@ -17,15 +16,15 @@
 
 - 🌟 God blessed me with the name **Genesaret Johnes**.
 - 💙 Following the manga updates of <s>[The Dangers in My Heart - 僕の心のヤバイやつ](https://en.wikipedia.org/wiki/The_Dangers_in_My_Heart)</s>, and [Dark Gathering - ダークギャザリング](https://en.wikipedia.org/wiki/Dark_Gathering)
-- 🎞 I read another mangas and watch animes too, the list is on [MyAnimeList](https://myanimelist.net/animelist/gensart-x) & [MyMangaList](https://myanimelist.net/mangalist/gensart-x)
-- 📙 I have tried to write a novel, even though I still have no good proficiency for it. Check it out on my [Wattpad](https://www.wattpad.com/user/gensart)
-- 🤙 Reach me on [Instagram](https://instagram.com/gensart-x) or [Email](mailto:geneshsarretsarretret@gmail.com) ! 💌 Don't worry, I won't bite you, your flesh seem not tasty either.<br/><br/>
+- 🎞 I read other manga and watch animes too, the lists are on [MyAnimeList](https://myanimelist.net/animelist/gensart-x) & [MyMangaList](https://myanimelist.net/mangalist/gensart-x)
+- 📙 I have tried to write a novel, even though I still have no proficiency in it. Check it out on my [Wattpad](https://www.wattpad.com/user/gensart)
+- 🤙 Reach me on [Instagram](https://instagram.com/gensart-x) or [Email](mailto:geneshsarretsarretret@gmail.com) ! 💌 Don't worry, I won't bite you, your flesh doesn't seem tasty either, though.<br/><br/>
 
 ### About Me :
 <a href='https://gensart.super.site' target="_blank"><img alt='supersite' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg'/></a>
 <a href='https://gensart.my.id' target="_blank"><img alt='personal portfolio' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg'/></a>
 
-### My Personal Projects
+### My Projects
 
 <table>
 <tr>
@@ -38,7 +37,7 @@
 <td>1</td>
 <td align="left">
   <code>Sora Erlyana</code> <br>
-  > Daily WhatsApp bot used for sticker maker, cooking recipe, random stuffs, etc.<br>
+  > Daily WhatsApp bot used for sticker making, cooking recipes, random kinds of stuff, etc.<br>
   <img alt='typescript' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg'/>
   <img alt='nodedotjs' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg'/>
 </td>
@@ -56,7 +55,7 @@
 <td>2</td>
 <td align="left">
   <code>Reva Erlyana</code> <br>
-  > WhatsApp bot, specialized only for managing WhatsApp group based on commands.<br>
+  > WhatsApp bot, specialized only for managing WhatsApp groups based on commands.<br>
   <img alt='nodedotjs' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg'/>
   <img alt='typescript' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg'/>
 </td>
@@ -102,7 +101,7 @@
 <a href='https://jquery.com' target="_blank"><img alt='jquery' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/jQuery/jquery3.svg'/></a>
 <a href="https://docker.com" target="_blank"><img alt='docker' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg'/></a>
 
-### Softwares I use for daily life :
+### Software I use for daily life :
 <a href='https://www.adobe.com/id_en/products/photoshop/landpa.html' target="_blank"><img alt='adobephotoshop' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop2.svg'/></a>
 <a href='https://chrome.google.com' target="_blank"><img alt='canva' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Chrome/chrome2.svg'/></a>
 <a href='https://duolingo.com' target='_blank'><img alt='duolingo' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Duolingo/duolingo2.svg'></a>
@@ -120,7 +119,7 @@
 
 ### Motivations of Work
 <details>
-  <summary>🔴 Open with Caution ⚠</summary>
+  <summary>🔴 Open</summary>
   <img src="https://i.ibb.co/MSj6gxJ/9i1V.gif">
   <img src="https://i.ibb.co/4tBnVKN/AX9I.gif">
   <img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif">
