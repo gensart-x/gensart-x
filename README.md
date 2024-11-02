@@ -15,6 +15,7 @@
 <br/><br/>
 
 - 🌟 God blessed me with the name **Genesaret Johnes**.
+- 🍎 I'm Indonesian, yeah, at least currently.
 - 💙 Following the manga updates of <s>[The Dangers in My Heart - 僕の心のヤバイやつ](https://en.wikipedia.org/wiki/The_Dangers_in_My_Heart)</s>, and [Dark Gathering - ダークギャザリング](https://en.wikipedia.org/wiki/Dark_Gathering)
 - 🎞 I read other manga and watch animes too, the lists are on [MyAnimeList](https://myanimelist.net/animelist/gensart-x) & [MyMangaList](https://myanimelist.net/mangalist/gensart-x)
 - 📙 I have tried to write a novel, even though I still have no proficiency in it. Check it out on my [Wattpad](https://www.wattpad.com/user/gensart)
