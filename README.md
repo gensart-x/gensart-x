@@ -15,17 +15,16 @@
 <br/><br/>
 
 - 🌟 God blessed me with the name **Genesaret Johnes**.
-- 🍎 I'm Indonesian, yeah, at least currently.
-- 💙 Following the manga updates of <s>[The Dangers in My Heart - 僕の心のヤバイやつ](https://en.wikipedia.org/wiki/The_Dangers_in_My_Heart)</s>, and [Dark Gathering - ダークギャザリング](https://en.wikipedia.org/wiki/Dark_Gathering)
+- 💙 Rarely following the manga updates of [Dark Gathering - ダークギャザリング](https://en.wikipedia.org/wiki/Dark_Gathering)
 - 🎞 I read other manga and watch animes too, the lists are on [MyAnimeList](https://myanimelist.net/animelist/gensart-x) & [MyMangaList](https://myanimelist.net/mangalist/gensart-x)
-- 📙 I have tried to write a novel, even though I still have no proficiency in it. Check it out on my [Wattpad](https://www.wattpad.com/user/gensart)
-- 🤙 Reach me on [Instagram](https://instagram.com/gensart-x) or [Email](mailto:geneshsarretsarretret@gmail.com) ! 💌 Don't worry, I won't bite you, your flesh doesn't seem tasty either, though.<br/><br/>
+- 📙 I have tried to write a novel, even though I still have no proficiency, but now I don't do it anymore. Check it out on [Wattpad](https://www.wattpad.com/user/gensart)
+- 🤙 Reach me on [Instagram](https://instagram.com/gensart-x) or [Email](mailto:geneshsarretsarretret@gmail.com) ! 💌 Don't worry, I won't bite you, your flesh doesn't seem tasty either though.<br/><br/>
 
 ### About Me :
 <a href='https://gensart.super.site' target="_blank"><img alt='supersite' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg'/></a>
 <a href='https://gensart.my.id' target="_blank"><img alt='personal portfolio' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg'/></a>
 
-### My Projects
+### My Personal Projects
 
 <table>
 <tr>
@@ -56,7 +55,7 @@
 <td>2</td>
 <td align="left">
   <code>Reva Erlyana</code> <br>
-  > WhatsApp bot, specialized only for managing WhatsApp groups based on commands.<br>
+  > The WhatsApp bot specializes only in managing WhatsApp groups based on commands.<br>
   <img alt='nodedotjs' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg'/>
   <img alt='typescript' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg'/>
 </td>
@@ -91,7 +90,7 @@
 </tr>
 </table>
 
-### Current tech stack I usually use/learn for both my work or project :
+### Current tech stack I usually use/learn for both my work and personal project :
 <a href='https://typescriptlang.org' target="_blank"><img alt='typescript' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg'/></a>
 <a href='https://javascript.com' target="_blank"><img alt='javascript' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg'/></a>
 <a href='https://php.net' target="_blank"><img alt='php' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php1.svg'/></a>
@@ -114,10 +113,6 @@
 
 <a href='https://duolingo.com/profile/gensart.x' target='_blank'><img alt='duolingo' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Duolingo/duolingo2.svg'></a>
 
-> I'm not frequently active on MonkeyType, currently.
-
-[![MonkeyType](https://ziadoua.github.io/m3-Markdown-Badges/badges/MonkeyType/monkeytype2.svg)](https://monkeytype.com/profile/gensart-x)
-
 ### Motivations of Work
 <details>
   <summary>🔴 Open</summary>
@@ -137,9 +132,5 @@
 > This account is a successor of my sudden-suspend account on GitHub named, gensart-ai.
 > 
 > Requiescat in pace, old friend.
-
-<p align="center">
-  <img src="https://c.tenor.com/lZ8i3c19MjsAAAAC/tenor.gif">
-</p>
 
 <img src="https://raw.githubusercontent.com/gensart-x/gensart-x/main/bottom_header.svg">
