@@ -1,5 +1,5 @@
 <p align="center">
-  <em>- i guess i am designed to be a support. -</em><br>
+  <em>- やんでる. -</em><br>
 </p>
 
 ***
