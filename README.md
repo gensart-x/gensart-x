@@ -1,5 +1,5 @@
 <p align="center">
-  <em>- やんでる. -</em><br>
+  <em>- やんでる　すきです </em>😈 -<br>
 </p>
 
 ***
@@ -98,7 +98,7 @@
 <a href='https://jquery.com' target="_blank"><img alt='jquery' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/jQuery/jquery3.svg'/></a>
 <a href="https://docker.com" target="_blank"><img alt='docker' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg'/></a>
 
-### Software I use on daily basis :
+### Software I use on a daily basis :
 <a href='https://chrome.google.com' target="_blank"><img alt='canva' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Chrome/chrome2.svg'/></a>
 <a href='https://vscode.dev' target="_blank"><img alt='visualstudiocode' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg'/></a>
 <a href='https://microsoft.com' target="_blank"><img alt='windows10' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows10/windows101.svg'/></a>
@@ -124,8 +124,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gensart-ai&show_icons=true&theme=radical&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gensart-ai&theme=radical&layout=compact)
 
-> This account is a successor of my sudden-suspend account on GitHub named, gensart-ai.
-> 
-> Requiescat in pace, old friend.
+> This account is a successor of my sudden-suspend account on GitHub named, gensart-ai. But it's already back in December 2024, the profile is <a href="https://github.com/gensart-ai">here</a> but I am not using it anymore.
 
 <img src="https://raw.githubusercontent.com/gensart-x/gensart-x/main/bottom_header.svg">
