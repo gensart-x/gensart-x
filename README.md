@@ -126,4 +126,7 @@
 
 > This account is a successor of my sudden-suspend account on GitHub named, gensart-ai. But it's already back in December 2024, the profile is <a href="https://github.com/gensart-ai">here</a> but I am not using it anymore.
 
+> [!TIP]
+> Seeing the badges awesome and want to use them? You can look for more in <a href="https://github.com/ziadOUA/m3-Markdown-Badges">here</a>
+
 <img src="https://raw.githubusercontent.com/gensart-x/gensart-x/main/bottom_header.svg">
