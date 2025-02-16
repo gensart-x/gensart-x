@@ -91,6 +91,7 @@
 <a href='https://typescriptlang.org' target="_blank"><img alt='typescript' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg'/></a>
 <a href='https://javascript.com' target="_blank"><img alt='javascript' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg'/></a>
 <a href='https://php.net' target="_blank"><img alt='php' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php1.svg'/></a>
+<a href='https://kotlinlang.org/docs/android-overview.html' target="_blank"><img alt='kotlin' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin1.svg'/></a>
 <a href='https://mariadb.org' target="_blank"><img alt='mysql' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/MariaDB/mariadb2.svg'/></a>
 <a href='https://nodejs.org/en' target="_blank"><img alt='nodedotjs' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg'/></a>
 <a href='https://expressjs.com/' target="_blank"><img alt='express' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express1.svg'/></a>
