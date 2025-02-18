@@ -1,4 +1,6 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/gensart-x/gensart-x/main/yuno-overview.gif" width="500">
+  <br>
   <em>- やんでる　すきです </em>😈 -<br>
 </p>
 
