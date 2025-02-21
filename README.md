@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/yFLJLf1q/yuno-card.png">
+  <img src="https://raw.githubusercontent.com/gensart-x/gensart-x/main/yuno-card.png">
   <br>
 </p>
 
