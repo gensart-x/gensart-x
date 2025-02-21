@@ -1,29 +1,49 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gensart-x/gensart-x/main/yuno-overview.gif" width="500">
+  <img src="https://i.ibb.co.com/yFLJLf1q/yuno-card.png">
   <br>
-  <em>- やんでる　すきです </em>😈 -<br>
 </p>
 
 ***
 
-[![Linkedin Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg)](https://www.linkedin.com/in/gensart/)
-[![Telegram Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram3.svg)](https://t.me/gensartx)
-[![Instagram Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram1.svg)](https://instagram.com/gensart.ai)
-[![Gmail Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg)](mailto:geneshsarretsarretret@gmail.com?subject=%5BFrom%20GitHub%5D&body=Hello%2C%20i%20wanna%20contact%20you%20about%20%3A) 
-[![Github Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg)](https://www.github.com/gensart-x/)
-<br/><br/>
+<p align="center">
+    <a href='https://www.linkedin.com/in/gensart/' target="_blank"><img alt='linkedin' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg'/></a>
+    <a href='https://t.me/gensartx' target="_blank"><img alt='telegram' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram3.svg'/></a>
+    <a href='https://instagram.com/gensart.ai' target="_blank"><img alt='instagram' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram1.svg'/></a>
+    <a href='mailto:geneshsarretsarretret@gmail.com?subject=%5BFrom%20GitHub%5D&body=Hello%2C%20i%20wanna%20contact%20you%20about%20%3A' target="_blank"><img alt='gmail' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg'/></a>
+    <br>
+    <a href='https://www.github.com/gensart-x/' target="_blank"><img alt='github' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg'/></a>
+    <a href='https://gensart.super.site' target="_blank"><img alt='supersite' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg'/></a>
+    <a href='https://gensart.my.id' target="_blank"><img alt='portfolio' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg'/></a>
+</p>
 
-- 🌟 God blessed me with the name **Genesaret Johnes**. Mostly people called me **Genes**.
-- 💙 Rarely following the manga updates of [Dark Gathering - ダークギャザリング](https://en.wikipedia.org/wiki/Dark_Gathering)
-- 🎞 I read other manga and watch animes too, the lists are on [MyAnimeList](https://myanimelist.net/animelist/gensart-x) & [MyMangaList](https://myanimelist.net/mangalist/gensart-x)
-- 📙 I have tried to write a novel, even though I still have no proficiency, but now I don't do it anymore. Check it out on [Wattpad](https://www.wattpad.com/user/gensart)
-- 🤙 Reach me on [Instagram](https://instagram.com/gensart.json) or [Email](mailto:geneshsarretsarretret@gmail.com) ! 💌 Don't worry, I won't bite you, your flesh doesn't seem tasty either though.<br/><br/>
+### About Me In Code:
+```kotlin
+object GenesaretJohnes: UnstableHuman() {
+    val name: String             = "Genesaret Johnes"
+    var competency: String       = "Web/Software Development Devotee"
+    val animeList: String        = "https://myanimelist.net/animelist/gensart-x"
+    val mangaList: String        = "https://myanimelist.net/mangalist/gensart-x"
+    val wattpad: String          = "https://www.wattpad.com/user/gensart"
+    var favorites: List<String>  = listOf(
+        "anime",
+        "specific manga",
+        "making web services",
+        "etc."
+    )
 
-### About Me :
-<a href='https://gensart.super.site' target="_blank"><img alt='supersite' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg'/></a>
-<a href='https://gensart.my.id' target="_blank"><img alt='personal portfolio' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg'/></a>
+    fun greet() {
+        println("You guys are pathetic, just be yourself")
+        UnstableHuman.decreaseSocialCredit(this)
+    }
 
-### My Projects
+    fun play() {
+        Dota?.displayOnScreen()
+        Computer?.showSinglePlayerGames()
+        MobileLegends?.hideFromScreen()
+    }
+}
+```
+### My Projects:
 
 <table>
 <tr>
