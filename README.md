@@ -37,7 +37,7 @@ object GenesaretJohnes: UnstableHuman() {
     }
 
     fun play() {
-        Dota?.displayOnScreen()
+        // Dota?.displayOnScreen()
         Computer?.showSinglePlayerGames()
         MobileLegends?.hideFromScreen()
     }
