@@ -130,7 +130,7 @@ object GenesaretJohnes: UnstableHuman() {
 
 ### Achievements
 <a href='https://duolingo.com/profile/gensart.x' target='_blank'><img alt='duolingo' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Duolingo/duolingo2.svg'></a>
-
+<a href='https://monkeytype.com/profile/gensart-x' target='_blank'><img alt='monkeytype' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/MonkeyType/monkeytype2.svg'></a>
 ### Motivations of Work
 <details>
   <summary>🔴 Open</summary>
