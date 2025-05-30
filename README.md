@@ -13,7 +13,6 @@
     <br>
     <a href='https://www.github.com/gensart-x/' target="_blank"><img alt='github' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg'/></a>
     <a href='https://gensart.super.site' target="_blank"><img alt='supersite' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg'/></a>
-    <a href='https://gensart.my.id' target="_blank"><img alt='portfolio' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg'/></a>
 </p>
 
 ### About Me In Code:
@@ -43,7 +42,7 @@ object GenesaretJohnes: UnstableHuman() {
     }
 }
 ```
-### My Projects:
+### Personal Projects:
 
 <table>
 <tr>
