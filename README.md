@@ -6,8 +6,9 @@
 ***
 
 <p align="center">
-    <em>🔦 speed of light | 🌐 relativity | ⚖ newton's law | 🔌 electricity | 🌌 spacetime</em>
-    <br>
+	<em>"if only i could turn back time, and heal the pain and suffering of the world."</em>
+	<br>
+	<em>~ Lunox</em>
 </p>
 
 ***
@@ -29,17 +30,10 @@
 </div>
 <br>
 <br>
-
-<div align="center">
-  <h6><em>"Karena dalam banyak hikmat terdapat banyak kekesalan, sehingga ia yang menambah pengetahuan menambah rasa sakit."</em></h5>
-  <h6><em>~ Pengkhotbah 1:18</em></h6>
-</div>
-<br>
-<br>
 <div align="center">
   <h5>question from thoughts</h5>
   <h5>
-    what is the meaning of life? | why light travels at same constant speed in every observers? | what really happens before the big bang? | why consciousness is patternable but still not discovered yet? | why spacetime said to be curved with mass? | why time works different each mass? | where does religions come from? | do we really evoluted from monkeys? | when will i have time to only dedicate myself to research? | what is death? | why death is inseparable with life? | where is everyone on the universe?
+    what is the meaning of life? | why light travels at same constant speed in every observers? | what really happens before the big bang? | why consciousness is patternable but still not discovered yet? | why spacetime said to be curved with mass? | why time works different each mass? | where does religions come from? | do we really evoluted from monkeys? | when will i have time to only dedicate myself to research? | what is death? | why death is inseparable from life? | where is everyone on the universe? | is there any higher being above our universe?
   </h5>
 </div>
 
