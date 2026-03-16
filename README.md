@@ -14,26 +14,26 @@
 ***
 
 <div align="center">
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mariadb.png" alt="MariaDB" title="MariaDB"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nginx.png" alt="Nginx" title="Nginx"/></code>
+	<a href="https://mysql.com" target="_blank"><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code></a>
+	<a href="https://mariadb.org" target="_blank"><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mariadb.png" alt="MariaDB" title="MariaDB"/></code></a>
+	<a href="https://postgresql.org" target="_blank"><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code></a>
+	<a href="https://nginx.org" target="_blank"><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nginx.png" alt="Nginx" title="Nginx"/></code></a>
 	<br>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="Express" title="Express"/></code>
+	<a href="https://www.javascript.com" target="_blank"><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code></a>
+	<a href="https://nodejs.org" target="_blank"><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code></a>
+	<a href="https://expressjs.com" target="_blank"><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="Express" title="Express"/></code></a>
 	<br>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png" alt="FastAPI" title="FastAPI"/></code>
+	<a href="https://python.org" target="_blank"><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code></a>
+	<a href="https://fastapi.tiangolo.com" target="_blank"><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png" alt="FastAPI" title="FastAPI"/></code></a>
 	<br>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" alt="php" title="PHP"/></code>
+	<a href="https://php.net" target="_blank"><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" alt="php" title="PHP"/></code></a>
 </div>
 <br>
 <br>
 <div align="center">
   <h5>question from thoughts</h5>
   <h5>
-    what is the meaning of life? | why light travels at same constant speed in every observers? | what really happens before the big bang? | why consciousness is patternable but still not discovered yet? | why spacetime said to be curved with mass? | why time works different each mass? | where does religions come from? | do we really evoluted from monkeys? | when will i have time to only dedicate myself to research? | what is death? | why death is inseparable from life? | where is everyone on the universe? | is there any higher being above our universe?
+    what is the meaning of life? | why light travels at same constant speed in every observers? | what really happens before the big bang? | why consciousness is patternable but still not discovered yet? | why spacetime said to be curved with mass? | why time works different each mass? | where does religions come from? | do we really evoluted from monkeys? | when will i have time to only dedicate myself to research? | what is death? | why death is inseparable from life? | where is everyone on the universe? | is there any higher being above our universe? | why this universe existed in the first place?
   </h5>
 </div>
 
