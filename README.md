@@ -31,6 +31,7 @@
 	<img height="30" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg">
 	<img height="30" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg">
 	<img height="30" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu1.svg">
+	<img height="30" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue2.svg">
 </div>
 
 <br>
