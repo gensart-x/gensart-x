@@ -1,7 +1,5 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gensart-x/gensart-x/main/yuno-card.png">
-  <br>
-</p>
+<img src="https://raw.githubusercontent.com/gensart-x/gensart-x/main/top_header.svg">
+<img src="https://raw.githubusercontent.com/gensart-x/gensart-x/main/yuno-card.png">
 
 ***
 
@@ -39,7 +37,7 @@
 <div align="center">
   <h5>question from thoughts</h5>
   <h5>
-    what is the meaning of life? | why light travels at same constant speed in every observers? | what really happens before the big bang? | why consciousness is patternable but still not discovered yet? | why spacetime said to be curved with mass? | why time works different each mass? | where does religions come from? | do we really evoluted from monkeys? | when will i have time to only dedicate myself to research? | what is death? | why death is inseparable from life? | where is everyone on the universe? | is there any higher being above our universe? | why this universe existed in the first place? | where's emotional existed? | how human able to have a doubt?
+    what is the meaning of life? | why light travels at same constant speed in every observers? | what really happens before the big bang? | why consciousness is patternable but still not discovered yet? | why spacetime said to be curved with mass? | why time works different each mass? | where does religions come from? | do we really evoluted from monkeys? | when will i have time to only dedicate myself to research? | what is death? | why death is inseparable from life? | where is everyone on the universe? | is there any higher being above our universe? | why this universe existed in the first place? | where's emotional existed in human body? | how human able to have a doubt? | what could've Tesla wrote in his last writings?
   </h5>
 </div>
 
