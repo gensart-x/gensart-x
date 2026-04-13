@@ -1,4 +1,5 @@
-# This is a basic workflow to help you get started with Actions
+permissions:
+  contents: write
 
 name: Updates README daily
 
@@ -34,8 +35,8 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Upload to GitHub
         run: |
-          git config --global user.email "{{ secrets.EMAIL }}"
-          git config --global user.name "gensart"
+          git config user.email "actions@github.com"
+          git config user.name "readme-updater"
           git add README.md
           git commit -m "chore: readme update" || echo "No changes"
           git push
