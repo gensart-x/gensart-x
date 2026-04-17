@@ -8,6 +8,7 @@ parser.add_argument('--command')
 parser.add_argument('--model')
 args = parser.parse_args()
 
+# Create a chat completion (POST /chat/completions)
 try:
     response = requests.post(
       args.api_url,
@@ -78,4 +79,5 @@ try:
 
     img.save("quote.png")
 except Exception as e:
-    print(e)
+    # better to be crashed so the workflow not continuing, i think.
+    raise e
