@@ -1,10 +1,9 @@
-<p align="center">
-	<!--START_SECTION-->
-Last updated: 2026-04-17T02:04:42.107Z
-<!--END_SECTION-->
-</p>
 <img src="https://raw.githubusercontent.com/gensart-x/gensart-x/main/top_header.svg">
 <img src="https://raw.githubusercontent.com/gensart-x/gensart-x/main/yuno-card.png">
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/gensart-x/gensart-x/main/quote.png">
+</div>
 
 ***
 
