@@ -39,7 +39,7 @@ jobs:
 
       # run script
       - name: Update the image
-        run: python update-image.py --api-url "{{ secrets.API_ENDPOINT }}" --key "{{ secrets.API_KEY }}" --command "{{ secrets.API_COMMAND }}" --model "{{ secrets.API_MODEL }}"
+        run: python update-image.py --api-url "${{ secrets.API_ENDPOINT }}" --key "${{ secrets.API_KEY }}" --command "${{ secrets.API_COMMAND }}" --model "${{ secrets.API_MODEL }}"
 
       # Runs a set of commands using the runners shell
       - name: Upload to GitHub
