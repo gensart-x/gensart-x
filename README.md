@@ -8,7 +8,7 @@
 ***
 
 <p align="center">
-	<em>"if only i could turn back time, and heal the pain and suffering of the world."</em>
+	<em>"if only i could turn back time, to heal the pain and suffering of the world."</em>
 	<br>
 	<em>~ Lunox</em>
 </p>
